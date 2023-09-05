@@ -47,6 +47,7 @@ public class Curso
         } else
         {
             Console.WriteLine("\n foi Reprovado");
+
         }
     }
 }
