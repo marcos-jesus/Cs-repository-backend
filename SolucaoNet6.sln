@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construtor 2", "Construtor 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "This", "This\This.csproj", "{73DE937D-A5F9-4922-9105-11F381A3C0DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methodParameter", "methodParameter\methodParameter.csproj", "{F4139EE9-2A7E-4997-AAE5-39735130D1BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodParameter", "methodParameter\methodParameter.csproj", "{F4139EE9-2A7E-4997-AAE5-39735130D1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoSobreCarga", "MetodoSobreCarga\MetodoSobreCarga.csproj", "{7A0C202D-2EF9-497F-A207-231D34D778DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{F4139EE9-2A7E-4997-AAE5-39735130D1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4139EE9-2A7E-4997-AAE5-39735130D1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4139EE9-2A7E-4997-AAE5-39735130D1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0C202D-2EF9-497F-A207-231D34D778DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0C202D-2EF9-497F-A207-231D34D778DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0C202D-2EF9-497F-A207-231D34D778DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0C202D-2EF9-497F-A207-231D34D778DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
