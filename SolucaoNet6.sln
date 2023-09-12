@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "This", "This\This.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methodParameter", "methodParameter\methodParameter.csproj", "{F4139EE9-2A7E-4997-AAE5-39735130D1BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoSobreCarga", "MetodoSobreCarga\MetodoSobreCarga.csproj", "{7A0C202D-2EF9-497F-A207-231D34D778DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoSobreCarga", "MetodoSobreCarga\MetodoSobreCarga.csproj", "{7A0C202D-2EF9-497F-A207-231D34D778DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMethods", "ExercicioMethods\ExercicioMethods.csproj", "{9DD357A0-337D-4B7C-893C-82B643A8F11D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMethods", "ExercicioMethods\ExercicioMethods.csproj", "{9DD357A0-337D-4B7C-893C-82B643A8F11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentoPorValor", "ArgumentoPorValor\ArgumentoPorValor.csproj", "{F1754592-1BF1-4B87-A623-91860DAD6398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentoPorRef", "ArgumentoPorRef\ArgumentoPorRef.csproj", "{73D981D3-97E7-482B-869E-12C78E92E2C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{9DD357A0-337D-4B7C-893C-82B643A8F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DD357A0-337D-4B7C-893C-82B643A8F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DD357A0-337D-4B7C-893C-82B643A8F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1754592-1BF1-4B87-A623-91860DAD6398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1754592-1BF1-4B87-A623-91860DAD6398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1754592-1BF1-4B87-A623-91860DAD6398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1754592-1BF1-4B87-A623-91860DAD6398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D981D3-97E7-482B-869E-12C78E92E2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D981D3-97E7-482B-869E-12C78E92E2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D981D3-97E7-482B-869E-12C78E92E2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D981D3-97E7-482B-869E-12C78E92E2C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
