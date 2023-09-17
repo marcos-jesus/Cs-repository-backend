@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgumentoPorValor", "Argume
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgumentoPorRef", "ArgumentoPorRef\ArgumentoPorRef.csproj", "{73D981D3-97E7-482B-869E-12C78E92E2C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentoPorOut", "ArgumentoPorOut\ArgumentoPorOut.csproj", "{08047B0E-DA7A-440C-AA48-04806D4D818F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArgumentoPorOut", "ArgumentoPorOut\ArgumentoPorOut.csproj", "{08047B0E-DA7A-440C-AA48-04806D4D818F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades", "Propriedades\Propriedades.csproj", "{C52C5A81-2AF1-415B-94B1-58E6E719E1DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Propriedades", "Propriedades\Propriedades.csproj", "{C52C5A81-2AF1-415B-94B1-58E6E719E1DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{3D1CF5F5-4408-4C23-877F-71BF4EF93AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{C52C5A81-2AF1-415B-94B1-58E6E719E1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C52C5A81-2AF1-415B-94B1-58E6E719E1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C52C5A81-2AF1-415B-94B1-58E6E719E1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1CF5F5-4408-4C23-877F-71BF4EF93AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1CF5F5-4408-4C23-877F-71BF4EF93AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1CF5F5-4408-4C23-877F-71BF4EF93AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1CF5F5-4408-4C23-877F-71BF4EF93AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
